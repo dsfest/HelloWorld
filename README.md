@@ -1,3 +1,3 @@
 # HelloWorld
  
-Repositório criado durante um período de desgraça e sofrimento!
+Repository created during a time of pain and suffering!
